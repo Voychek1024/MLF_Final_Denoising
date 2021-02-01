@@ -1,5 +1,5 @@
 # ML_Foundations
-2020 Winter Machine Learning Foundations Experiments
+2020 Winter Machine Learning Foundations
 Final Project
 
 #### 选题：
@@ -12,7 +12,7 @@ Final Project
 	PSNR(Peak Signal to Noise Ratio)峰值信噪比和SSIM(Structural Similarity Index)结构相似性。
 
 #### 数据文件：
-	共有5个子文件夹NoNoise、NoiseLevel3、NoiseLevel5、NoiseLevel7、NoiseLevel9，分别表示无噪声影响的和不同噪声程度影响的MRI图像，每个子文件夹下包含15 张MRI图像。
+	共有5个子文件夹NoNoise、NoiseLevel3、NoiseLevel5、NoiseLevel7、NoiseLevel9，分别表示无噪声影响的和不同噪声程度影响的MRI图像，每个子文件夹下包含15张MRI图像。
 
 #### 进展：
 任务状态![status](https://img.shields.io/badge/status-working(1%2F4)-yellow)
